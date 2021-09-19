@@ -21,7 +21,7 @@ xmodmap -e "keycode 9 = Caps_Lock"; xmodmap -e "keycode 66 = Escape"
 xmodmap -e 'clear Lock' -e 'keycode 0x42 = Escape'
 killall mocicon
 mocicon &
-~/.dotfiles/.config/bspwm/bspwm/scripts/enableclickontap.sh
+~/.config/bspwm/scripts/enableclickontap.sh
 nitrogen --restore
 xsetroot -cursor_name left_ptr &
 killall sxhkd

@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "Enter the link of the song you wanna steal >~<"
+read songlink
+echo ==================================================
+echo Downloading -----\> $songlink
+echo ==================================================
+cd ~/Music/
+youtube-dl --extract-audio --audio-format mp3 $songlink 
