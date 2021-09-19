@@ -1,0 +1,2 @@
+#!/bin/sh
+echo $(find /usr/share/man/man1 -type f | awk -F '/' '/1/ {print $6}' | sed 's/.1.gz//g') $(man -k . | awk '{print $1}') | sed 's/\s/\n/g' | awk '!seen[$0]++'| dmenu -c -l 15 -h 30 -i -p 'Manual PDF:' | xargs man -Tps | zathura - &

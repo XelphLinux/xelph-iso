@@ -1,0 +1,6 @@
+seek_forward = ; RIGHT
+seek_backward = h LEFT
+seek_forward_fast = ]
+seek_backward_fast = [
+menu_down = j DOWN
+menu_up = k UP
