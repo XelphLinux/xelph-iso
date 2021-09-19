@@ -41,7 +41,6 @@ alias update='sudo pacman -Syyu'
 alias updatefonts='sudo fc-cache -fv'
 alias updqte='sudo pacman -Syyu'
 alias updte='sudo pacman -Syyu'
-alias vim='nvim'
 alias vlc='devour vlc'
 alias wget="wget -c" # continue the download
 alias zathura='devour zathura'

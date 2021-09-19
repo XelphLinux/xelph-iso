@@ -36,4 +36,5 @@ file_permissions=(
   ["/etc/skel/.config/bspwm/scripts/winmask"]="0:0:755"
   ["/etc/skel/.config/ranger/scope.sh"]="0:0:755"
   ["/etc/skel/.config/bspwm/polybar/launch.sh"]="0:0:755"
+  ["/etc/skel/.config/bspwm/bspwmrc"]="0:0:755"
 )

@@ -5,7 +5,7 @@ declare -a options=(
 "Alacritty - $HOME/.config/alacritty/alacritty.yml"
 "NeoVim Config - $HOME/.config/nvim/init.vim"
 "Zshrc - $HOME/.zshrc"
-"Zsh aliases - $HOME/.zhrc-personal"
+"Zsh aliases - $HOME/.zshrc-personal"
 "Polybar config - $HOME/.config/bspwm/polybar/config"
 "Bspwm - $HOME/.config/bspwm/bspwmrc"
 "Bspwm scripts - $HOME/.config/bspwm/scripts/"
