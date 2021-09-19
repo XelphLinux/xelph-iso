@@ -21,6 +21,7 @@ file_permissions=(
   ["/root/.automated_script.sh"]="0:0:755"
   ["/usr/local/bin/choose-mirror"]="0:0:755"
   ["/usr/local/bin/livecd-sound"]="0:0:755"
+  ["/usr/local/bin/installsys"]="0:0:755"
   ["/etc/skel/.config/bspwm/autostart.sh"]="0:0:755"
   ["/etc/skel/.config/bspwm/scripts/configselector"]="0:0:755"
   ["/etc/skel/.config/bspwm/scripts/enableclickontap.sh"]="0:0:755"
