@@ -3,7 +3,7 @@
 
 iso_name="xelphlinux"
 iso_label="xelph_$(date +%Y%m)"
-iso_publisher="Xelph Linux <https://github.com/AakashSharma7269>"
+iso_publisher="Xelph Linux <https://github.com/XelphLinux>"
 iso_application="Xelph Linux Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
