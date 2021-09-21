@@ -1,7 +1,0 @@
-#!/bin/sh
-choice=$(ps axch -o cmd | dmenu -c -l 15 -h 30 -i -p 'Choose a process to kill:')
-if [[ ! $choice ]];then
-	echo "Choose a program to kill"; exit 1
-else
-	ps aux | grep -i $choice | awk '{print $2}'| xargs -n 1 sudo kill -9
-fi
