@@ -1,6 +1,5 @@
 # Todo
-- package wallpapers
-- package config files
+- docs
 
 ![img](https://cdn.discordapp.com/attachments/754663292693118986/889270098521628682/1.png)
 ![img](https://cdn.discordapp.com/attachments/754663292693118986/889270109246488626/2.png)
