@@ -1,5 +1,6 @@
 # Todo
-- docs
+- Add vbox drivers in live iso without nvidia / amdgpu stuff. Remove on calamares install completion
+- Add calamares page to choose drivers
 
 ![img](https://cdn.discordapp.com/attachments/754663292693118986/889270098521628682/1.png)
 ![img](https://cdn.discordapp.com/attachments/754663292693118986/889270109246488626/2.png)
