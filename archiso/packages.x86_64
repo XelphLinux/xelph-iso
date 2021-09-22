@@ -199,6 +199,8 @@ reflector
 bitwarden
 xarchiver
 blueberry
+bluez
+bluez-utils
 playerctl
 pulsemixer
 noto-fonts
@@ -209,7 +211,7 @@ polkit-gnome
 brightnessctl
 speedtest-cli
 networkmanager
-nord-dmenu-git
+xelph-dmenu-git
 discord-canary
 pulseaudio-alsa
 noto-fonts-emoji
@@ -244,6 +246,7 @@ otf-san-francisco
 firefox
 xelph-wallpapers-git
 xelph-config-bspwm-git
+lxappearance
 
 # errors
 # adobe-source-han-serif-cn-fonts 
