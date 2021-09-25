@@ -134,7 +134,6 @@ xorg-xrdb
 #######################################################
 ###      PACKAGES THAT STAY AFTER INSTALLATION      ###
 #######################################################
-alacritty
 archlinux-keyring
 base-devel
 bat
@@ -183,7 +182,6 @@ otf-san-francisco
 p7zip
 papirus-icon-theme
 pcmanfm
-picom-ibhagwan-git
 playerctl
 polkit
 polkit-gnome
@@ -205,6 +203,7 @@ xclip
 xdotool
 xelph-config-bspwm-git
 xelph-dmenu-git
+xelph-st-git
 xelph-wallpapers-git
 xorg-server
 xorg-xclipboard
