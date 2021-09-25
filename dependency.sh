@@ -1,4 +1,7 @@
 #!/bin/bash
+# installing chaotic
+sudo aura -A chaotic-mirrorlist
+sudo aura -A chaotic-keyring
 sudo pacman -S --needed --noconfirm base-devel
 sudo pacman -S --needed --noconfirm archiso
 sudo pacman -S --needed --noconfirm kconfig
