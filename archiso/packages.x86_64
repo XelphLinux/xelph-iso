@@ -134,7 +134,10 @@ xorg-xrdb
 #######################################################
 ###      PACKAGES THAT STAY AFTER INSTALLATION      ###
 #######################################################
+alacritty-ligatures-git
+arandr
 archlinux-keyring
+aura-bin
 base-devel
 bat
 betterlockscreen-git
@@ -149,6 +152,7 @@ chaotic-keyring
 chaotic-mirrorlist
 cursor-theme-macos-big-sur
 devour
+dkms
 dosfstools
 dunst
 exa
@@ -159,11 +163,11 @@ grub
 gvfs
 imagemagick
 kvantum-qt5
+linux-headers
 lxappearance
 maim
 make
 man-db
-meld
 mkinitcpio-openswap
 mlocate
 nerd-fonts-jetbrains-mono
@@ -197,13 +201,14 @@ sxiv
 ueberzug
 unzip
 uwufetch-git
+wget
 wmname
 xarchiver
 xclip
 xdotool
 xelph-config-bspwm-git
 xelph-dmenu-git
-xelph-st-git
+xelph-ranger-devicons-git
 xelph-wallpapers-git
 xorg-server
 xorg-xclipboard

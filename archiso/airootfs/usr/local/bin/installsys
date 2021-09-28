@@ -1,2 +1,7 @@
 #!/bin/bash
-devour sudo calamares
+wget -q --tries=10 --timeout=20 --spider http://google.com
+if [[ $? -eq 0 ]]; then
+    devour sudo calamares
+else
+	notify-send "XelphOS Installer" -t 10000 -a "Installer cannot continue without internet connection."
+fi
