@@ -134,6 +134,7 @@ xorg-xrdb
 #######################################################
 ###      PACKAGES THAT STAY AFTER INSTALLATION      ###
 #######################################################
+acpi
 alacritty-ligatures-git
 arandr
 archlinux-keyring
@@ -184,6 +185,7 @@ openssh
 os-prober
 otf-san-francisco
 p7zip
+pacman-contrib
 papirus-icon-theme
 pcmanfm
 playerctl
@@ -218,6 +220,7 @@ xorg-xinput
 xorg-xkill
 xorg-xmodmap
 xorg-xprop
+xorg-xrandr
 xorg-xsetroot
 zathura
 zathura-ps
