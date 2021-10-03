@@ -173,7 +173,6 @@ kvantum-qt5
 linux-headers
 lxappearance
 maim
-make
 man-db
 mkinitcpio-openswap
 mlocate
@@ -196,7 +195,6 @@ pcmanfm
 playerctl
 polkit
 polkit-gnome
-polybar
 pulseaudio-alsa
 pulsemixer
 qt5ct
@@ -206,7 +204,6 @@ starship-git
 sxiv
 ueberzug
 unzip
-uwufetch-git
 wget
 wmname
 xarchiver
