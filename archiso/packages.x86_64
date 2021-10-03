@@ -139,7 +139,6 @@ xorg-xrdb
 ###				ISO SPECIFIC PACAKAGES				###
 #######################################################
 xelph-config-bspwm-git
-bspwm
 
 arandr
 archlinux-keyring
@@ -201,7 +200,6 @@ qt5ct
 ranger
 reflector
 starship-git
-sxhkd
 sxiv
 ueberzug
 unzip
