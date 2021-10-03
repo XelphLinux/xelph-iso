@@ -22,4 +22,6 @@ file_permissions=(
   ["/usr/local/bin/choose-mirror"]="0:0:755"
   ["/usr/local/bin/livecd-sound"]="0:0:755"
   ["/usr/local/bin/installsys"]="0:0:755"
+  ["/usr/local/bin/xelphlinux-before"]="0:0:755"
+  ["/usr/local/bin/xelphlinux-final"]="0:0:755"
 )
