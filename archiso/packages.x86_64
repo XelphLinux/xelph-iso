@@ -140,7 +140,8 @@ xorg-xrdb
 #######################################################
 ###				ISO SPECIFIC PACAKAGES				###
 #######################################################
-xelph-config-bspwm-git
+#xelph-config-bspwm-git
+xelph-config-dwm-git
 
 #######################################################
 ###					GENERAL PACKAGES				###
