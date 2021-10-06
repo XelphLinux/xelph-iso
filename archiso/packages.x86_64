@@ -177,7 +177,6 @@ imagemagick
 kvantum-qt5
 linux-headers
 lxappearance
-lxsession
 maim
 man-db
 mkinitcpio-openswap
@@ -200,6 +199,7 @@ papirus-icon-theme
 pcmanfm
 playerctl
 polkit
+polkit-gnome
 pulseaudio-alsa
 pulsemixer
 qt5ct
