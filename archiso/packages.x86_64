@@ -141,6 +141,8 @@ xorg-xrdb
 ###				ISO SPECIFIC PACAKAGES				###
 #######################################################
 #xelph-config-bspwm-git
+#xelph-dmenu-git
+#xelph-st-git
 xelph-config-dwm-git
 
 #######################################################
@@ -175,6 +177,7 @@ imagemagick
 kvantum-qt5
 linux-headers
 lxappearance
+lxsession
 maim
 man-db
 mkinitcpio-openswap
@@ -197,7 +200,6 @@ papirus-icon-theme
 pcmanfm
 playerctl
 polkit
-polkit-gnome
 pulseaudio-alsa
 pulsemixer
 qt5ct
@@ -213,9 +215,7 @@ xarchiver
 xclip
 xdotool
 xelph-base-config-git
-xelph-dmenu-git
 xelph-ranger-devicons-git
-xelph-st-git
 xelph-wallpapers-git
 xorg-server
 xorg-xclipboard

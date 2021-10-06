@@ -19,19 +19,19 @@ rm -rf /etc/systemd/system/getty@tty1.service.d
 
 echo "Cleanup original files"
 echo "#################################"
-rm -f /etc/sudoers.d/g_wheel
+rm -rf /etc/sudoers.d/g_wheel
 rm -rf /usr/share/backgrounds/xfce
-rm -f /etc/polkit-1/rules.d/49-nopasswd_global.rules
-rm -f /etc/polkit-1/rules.d/49-nopasswd-calamares.rules
-rm -r /etc/systemd/system/etc-pacman.d-gnupg.mount
-rm /root/{.automated_script.sh,.zlogin}
-rm /usr/local/bin/installsys
+rm -rf /etc/polkit-1/rules.d/49-nopasswd_global.rules
+rm -rf /etc/polkit-1/rules.d/49-nopasswd-calamares.rules
+rm -rf /etc/systemd/system/etc-pacman.d-gnupg.mount
+rm -rf /root/{.automated_script.sh,.zlogin}
+rm -rf /usr/local/bin/installsys
 
 echo "Permission of root"
 echo "#################################"
 chmod -v 750 /root
 
 echo "#################################"
-echo "End arcolinux-final"
+echo "End xelphlinux-final"
 echo "#################################"
-rm /usr/local/bin/xelphlinux-final
+rm -rf /usr/local/bin/xelphlinux-final

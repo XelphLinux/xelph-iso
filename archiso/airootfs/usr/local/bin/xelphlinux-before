@@ -11,11 +11,11 @@ pacman-key --populate chaotic
 
 echo "Removing /etc/sddm.conf"
 echo "#################################"
-rm -f /etc/sddm.conf
+rm -rf /etc/sddm.conf
 rm -rf /etc/sddm.conf.d
-rm -f /etc/systemd/system/display-manager.service
+rm -rf /etc/systemd/system/display-manager.service
 
 echo "#################################"
 echo "End xelphlinux-before"
 echo "#################################"
-rm /usr/local/bin/arcolinux-before
+rm -rf /usr/local/bin/xelphlinux-before
