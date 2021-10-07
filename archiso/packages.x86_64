@@ -128,7 +128,6 @@ zsh
 #######################################################
 
 libxinerama
-sddm
 xelph-calamares-config-btrfs-git
 xelph-calamares-git
 xorg-xrdb
@@ -177,6 +176,7 @@ imagemagick
 kvantum-qt5
 linux-headers
 lxappearance
+lxdm-gtk3
 maim
 man-db
 mkinitcpio-openswap
@@ -216,6 +216,8 @@ xarchiver
 xclip
 xdotool
 xelph-base-config-git
+xelph-grub-config-git
+xelph-lxdm-config-git
 xelph-ranger-devicons-git
 xelph-wallpapers-git
 xorg-server

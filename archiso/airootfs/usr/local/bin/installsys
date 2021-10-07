@@ -1,2 +1,2 @@
 #!/bin/bash
-devour sudo calamares
+devour calamares_polkit
