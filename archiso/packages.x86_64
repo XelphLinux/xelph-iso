@@ -175,7 +175,6 @@ gvfs
 imagemagick
 kvantum-qt5
 linux-headers
-lxappearance
 lxdm-gtk3
 maim
 man-db
@@ -215,6 +214,7 @@ wmname
 xarchiver
 xclip
 xdotool
+xdg-user-dirs
 xelph-base-config-git
 xelph-grub-config-git
 xelph-lxdm-config-git
