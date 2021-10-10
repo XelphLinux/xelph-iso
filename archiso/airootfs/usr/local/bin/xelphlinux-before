@@ -9,6 +9,10 @@ pacman-key --init
 pacman-key --populate archlinux
 pacman-key --populate chaotic
 
+echo "Changing into our own linux.preset"
+echo "#################################"
+mv /etc/mkinitcpio.d/xelph /etc/mkinitcpio.d/linux.preset
+
 echo "#################################"
 echo "End xelphlinux-before"
 echo "#################################"
