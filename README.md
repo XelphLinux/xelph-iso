@@ -1,21 +1,15 @@
 <h1 align="center">Xelph OS</h1>
 
 ## Table of Contents
-
-- [About ⁉️](#about)
 - [Gallery 📷](#gal)
 - [Keybinds ✍️](#keybinds)
 - [How To Install ⁉️](#install)
 
-
-<a id="about"></a>
 Xelph Linux is an Arch Linux based GNU/Linux distribution which tries to be minimal and beautiful.
-
 
 <a id="gal"></a>
 ## Gallery 📷
 `Coming soon`
-
 
 <a id="keybinds"></a>
 ## Super Keys ( Super key = windows key)                                     
