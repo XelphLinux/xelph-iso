@@ -9,8 +9,13 @@
 - What drivers to choose??? - coming soon.
 
 Xelph Linux is an Arch Linux based GNU/Linux distribution which tries to be minimal and beautiful.
-<h3>Source code for all suckless software go in /opt/</h3>
-<h3>We use aura-bin as our AUR helper and package manager! yay-bin is available in the repositories, but will not be installed out of the box!</h3>
+<h3>Note: Source code for all suckless software go in /opt/</h3>
+<br>
+<h3>Note: picom-jonaburg-git is not installed on the live ISO but it's config files and startup commands are already present in DWM autostart script.
+It was disabled to keep the OS virtual machine compatible, however you can run sudo pacman -S picom-jonaburg-git and then use the keybind super + shift + r to turn on picom-jonaburg-git.</h3>
+<br>
+<h3>Note: We use aura-bin as our AUR helper and package manager! yay-bin is available in the repositories, but will not be installed out of the box!</h3>
+<br>
 
 
 <a id="install"></a>
