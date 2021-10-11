@@ -92,7 +92,7 @@ Keybind                    | Function             |
  control + m			 |  Script to get man pages in a pdf     |
  control + alt + o	     |  Toggle picom, not included in live medium to keep ISO vbox compatible |
  super + control + l	 |  Lock your screen with betterlockscreen |
- ontrol + o in st		 |  Opens up a function called rangercd which allows you to move around your system with ranger. |
+`control + o` in st		 |  Opens up a function called rangercd which allows you to move around your system with ranger. |
 
 <a id="install"></a>
 ## Installation
