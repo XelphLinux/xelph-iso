@@ -153,9 +153,6 @@ aura-bin
 base-devel
 bat
 betterlockscreen-git
-blueberry
-bluez
-bluez-utils
 brave-bin
 brightnessctl
 btop
@@ -168,7 +165,6 @@ dosfstools
 dunst
 exa
 expac
-git
 gotop-bin
 grub
 gvfs
