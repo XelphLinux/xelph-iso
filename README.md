@@ -6,8 +6,8 @@
 - [How To Install ⁉️](#install)
 
 Xelph Linux is an Arch Linux based GNU/Linux distribution which tries to be minimal and beautiful.
-<h1>Source code for all suckless software go in /opt/</h1>
-<h1>We use `aura-bin` as our AUR helper and package manager! `yay-bin` is available in the repositories, but will not be installed out of the box!</h1>
+<h3>Source code for all suckless software go in /opt/</h3>
+<h3>We use `aura-bin` as our AUR helper and package manager! `yay-bin` is available in the repositories, but will not be installed out of the box!</h3>
 
 
 <a id="gal"></a>
