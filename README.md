@@ -1,14 +1,22 @@
 <h1 align="center">Xelph OS</h1>
 
 ## Table of Contents
+- [How To Install ⁉️](#install)
 - [Gallery 📷](#gal)
 - [Keybinds ✍️](#keybinds)
-- [How To Install ⁉️](#install)
+- Dual Monitor guide - coming soon.
+- Optimus Manager guide - coming soon.
 
 Xelph Linux is an Arch Linux based GNU/Linux distribution which tries to be minimal and beautiful.
 <h3>Source code for all suckless software go in /opt/</h3>
 <h3>We use aura-bin as our AUR helper and package manager! yay-bin is available in the repositories, but will not be installed out of the box!</h3>
 
+
+<a id="install"></a>
+## Installation
+Once you boot up Xelph and entered dwm desktop, you can start the 
+Calamares installer by launching `dmenu` by hitting: `Superkey + d` 
+on your keyboard and type in: `installsys`
 
 <a id="gal"></a>
 ## Gallery 📷
@@ -90,9 +98,3 @@ Keybind                    | Function             |
  control + alt + o	     |  Toggle picom, not included in live medium to keep ISO vbox compatible |
  super + control + l	 |  Lock your screen with betterlockscreen |
 `control + o` in st		 |  Opens up a function called rangercd which allows you to move around your system with ranger. |
-
-<a id="install"></a>
-## Installation
-Once you boot up Xelph and entered dwm desktop, you can start the 
-Calamares installer by launching `dmenu` by hitting: `Superkey + d` 
-on your keyboard and type in: `installsys`
