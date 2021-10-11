@@ -6,6 +6,7 @@
 - [Keybinds ✍️](#keybinds)
 - Dual Monitor guide - coming soon.
 - Optimus Manager guide - coming soon.
+- What drivers to choose??? - coming soon.
 
 Xelph Linux is an Arch Linux based GNU/Linux distribution which tries to be minimal and beautiful.
 <h3>Source code for all suckless software go in /opt/</h3>
