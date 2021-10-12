@@ -101,3 +101,19 @@ Keybind                    | Function             |
  control + alt + o	     |  Toggle picom, not included in live medium to keep ISO vbox compatible |
  super + control + l	 |  Lock your screen with betterlockscreen |
 `control + o` in st		 |  Opens up a function called rangercd which allows you to move around your system with ranger. |
+
+
+## Ranger binds
+Keybind                    | Function             |
+---------------------- | -------------- |
+ gw					   | Go to `/usr/share/backgrounds` |
+ ge					   | Go to  `~/Desktop` |
+ gp					   | Go to  `~/Pictures` |
+ gv					   | Go to  `~/Videos` |
+ gr					   | Go to  `/` |
+ gm					   | Go to  `~/Music` |
+ ee					   | Open highlighted file in a terminal text editor |
+ au					   | Extract highlighted archive in a new folder |
+ md					   | Make directory |
+ mf					   | Make file |
+ ch					   | CHMOD |
