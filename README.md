@@ -116,4 +116,4 @@ Keybind                    | Function             |
  au					   | Extract highlighted archive in a new folder |
  md					   | Make directory |
  mf					   | Make file |
- ch					   | CHMOD |
+ ch					   | Change file permission |
