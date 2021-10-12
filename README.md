@@ -106,12 +106,14 @@ Keybind                    | Function             |
 ## Ranger binds
 Keybind                    | Function             |
 ---------------------- | -------------- |
- gw					   | Go to `/usr/share/backgrounds` |
+ gD					   | Go to  `~/Documents` |
+ gd					   | Go to  `~/Downloads` |
  ge					   | Go to  `~/Desktop` |
- gp					   | Go to  `~/Pictures` |
- gv					   | Go to  `~/Videos` |
- gr					   | Go to  `/` |
  gm					   | Go to  `~/Music` |
+ gp					   | Go to  `~/Pictures` |
+ gr					   | Go to  `/` |
+ gv					   | Go to  `~/Videos` |
+ gw					   | Go to `/usr/share/backgrounds` |
  ee					   | Open highlighted file in a terminal text editor |
  au					   | Extract highlighted archive in a new folder |
  md					   | Make directory |
