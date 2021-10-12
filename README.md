@@ -4,6 +4,8 @@
 - [How To Install ⁉️](#install)
 - [Gallery 📷](#gal)
 - [Keybinds ✍️](#keybinds)
+- useful zsh aliases - coming soon.
+- st keybinds - coming soon.
 - Dual Monitor guide - coming soon.
 - Optimus Manager guide - coming soon.
 - What drivers to choose??? - coming soon.
