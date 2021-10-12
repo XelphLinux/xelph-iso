@@ -104,6 +104,19 @@ Keybind                    | Function             |
  super + control + l	 |  Lock your screen with betterlockscreen |
 `control + o` in st		 |  Opens up a function called rangercd which allows you to move around your system with ranger. |
 
+## ST ( Simple Terminal ) keybinds
+Keybind                    | Function             |
+---------------------- | -------------- |
+ alt + j           |  Scroll up   |
+ alt + k           |  Scroll down   |
+ control + =       |  Zoom in   |
+ control + -       |  Zoom out   |
+ alt + shift + j   |  Zoom in   |
+ alt + shift + k   |  Zoom out   |
+alt + i			   |  Follow a link from the terminal   |
+ alt + y		   |  Copy a link from the terminal   |
+ alt + o           |  Copy the output of a command from the terminal to the clipboard | 
+
 
 ## Ranger binds
 Keybind                    | Function             |
