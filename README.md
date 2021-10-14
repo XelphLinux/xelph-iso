@@ -1,5 +1,8 @@
 <h1 align="center">Xelph OS</h1>
 <p align="center">
+<a href="https://aakash.is-a.dev" target="_blank"><img src="https://github.com/XelphLinux/xelph-calamares-config-btrfs-git/blob/main/etc/calamares/branding/default/nyarch.png"/></a>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-Green?style=flat-square">
   <img src="https://img.shields.io/github/downloads/xelphlinux/xelph-iso/total?label=downloads&logo=github&color=blue&style=flat-square">
   <img src="https://img.shields.io/github/stars/xelphlinux/xelph-iso?style=flat-square">
