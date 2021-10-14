@@ -1,4 +1,10 @@
 <h1 align="center">Xelph OS</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-Green?style=flat-square">
+  <img src="https://img.shields.io/github/downloads/xelphlinux/xelph-iso/total?label=downloads&logo=github&color=blue&style=flat-square">
+  <img src="https://img.shields.io/github/stars/xelphlinux/xelph-iso?style=flat-square">
+  <img src="https://img.shields.io/github/issues/xelphlinux/xelph-iso?color=violet&style=flat-square">
+</p>
 
 ## Table of Contents
 - [How To Install ⁉️](#install)
