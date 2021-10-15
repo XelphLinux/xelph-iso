@@ -1,5 +1,4 @@
 #!/bin/bash
-# installing chaotic
 sudo aura -S --needed --noconfirm chaotic-mirrorlist
 sudo aura -S --needed --noconfirm chaotic-keyring
 sudo aura -S --needed --noconfirm mkinitcpio-openswap
