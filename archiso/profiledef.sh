@@ -24,4 +24,5 @@ file_permissions=(
   ["/usr/local/bin/installsys"]="0:0:755"
   ["/usr/local/bin/xelphlinux-before"]="0:0:755"
   ["/usr/local/bin/xelphlinux-final"]="0:0:755"
+  ["/usr/local/bin/remove-nvidia"]="0:0:755"
 )
