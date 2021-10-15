@@ -26,5 +26,5 @@ sudo pacman -S --needed --noconfirm qt5-translations
 sudo pacman -S --needed --noconfirm git
 sudo pacman -S --needed --noconfirm boost
 sudo pacman -S --needed --noconfirm pacman-contrib
-yay -S mkinitcpio-openswap --noconfirm
-yay -S ckbcomp --noconfirm
+sudo aura -S mkinitcpio-openswap --noconfirm
+sudo aura -S ckbcomp --noconfirm
