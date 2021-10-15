@@ -31,6 +31,9 @@ echo "Permission of root"
 echo "#################################"
 chmod -v 750 /root
 
+echo "Installing latest chaotic mirrorlist and keyring"
+echo "#################################"
+pacman -U --noconfirm 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst' 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'
 echo "#################################"
 echo "End xelphlinux-final"
 echo "#################################"
