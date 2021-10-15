@@ -1,7 +1,9 @@
 #!/bin/bash
 # installing chaotic
-sudo aura -A chaotic-mirrorlist
-sudo aura -A chaotic-keyring
+sudo aura -S --needed --noconfirm chaotic-mirrorlist
+sudo aura -S --needed --noconfirm chaotic-keyring
+sudo aura -S --needed --noconfirm mkinitcpio-openswap
+sudo aura -S --needed --noconfirm ckbcomp
 sudo pacman -S --needed --noconfirm base-devel
 sudo pacman -S --needed --noconfirm archiso
 sudo pacman -S --needed --noconfirm kconfig
@@ -26,5 +28,3 @@ sudo pacman -S --needed --noconfirm qt5-translations
 sudo pacman -S --needed --noconfirm git
 sudo pacman -S --needed --noconfirm boost
 sudo pacman -S --needed --noconfirm pacman-contrib
-sudo aura -S mkinitcpio-openswap --noconfirm
-sudo aura -S ckbcomp --noconfirm
