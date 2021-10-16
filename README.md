@@ -145,4 +145,4 @@ Keybind                    | Function             |
 
 <a id="dualmon"></a>
 ## Multiple monitors.
-To setup multiple monitors, watch [this video](https://www.youtube.com/watch?v=MfgkyQrtm5g) by Brodie Robertson. Copy the generated command and add it to the end of `/opt/xelph-dwm-git/scripts/autostart.sh`.
+To setup multiple monitors, watch [this video](https://www.youtube.com/watch?v=MfgkyQrtm5g) by Brodie Robertson. Copy the generated command and add it to the end of `/opt/xelph-dwm-git/scripts/autostart.sh`. Use the keybind `super + shift + r` to restart dwm and apply your changes.
