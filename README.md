@@ -14,6 +14,7 @@
 - [Gallery 📷](#gal)
 - [Keybinds ✍️](#keybinds)
 - [Multiple monitors](#dualmon)
+- dunst keybinds - coming soon.
 - useful zsh aliases - coming soon.
 - Optimus Manager guide - coming soon.
 - What drivers to choose??? - coming soon.
