@@ -13,8 +13,8 @@
 - [How To Install ⁉️](#install)
 - [Gallery 📷](#gal)
 - [Keybinds ✍️](#keybinds)
+- [Multiple monitors](#dualmon)
 - useful zsh aliases - coming soon.
-- Dual Monitor guide - coming soon.
 - Optimus Manager guide - coming soon.
 - What drivers to choose??? - coming soon.
 
@@ -142,3 +142,7 @@ Keybind                    | Function             |
  md					   | Make directory |
  mf					   | Make file |
  ch					   | Change file permission |
+
+<a id="dualmon"></a>
+## Multiple monitors.
+To setup multiple monitors, watch [this video](https://www.youtube.com/watch?v=MfgkyQrtm5g) by Brodie Robertson. Copy the generated command and add it to the end of `/opt/xelph-dwm-git/scripts/autostart.sh`.
