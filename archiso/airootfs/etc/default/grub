@@ -52,3 +52,4 @@ GRUB_THEME="/usr/share/grub/themes/Xelph/theme.txt"
 # Uncomment to make GRUB remember the last selection. This requires
 # setting 'GRUB_DEFAULT=saved' above.
 #GRUB_SAVEDEFAULT="true"
+GRUB_DISABLE_OS_PROBER=false
