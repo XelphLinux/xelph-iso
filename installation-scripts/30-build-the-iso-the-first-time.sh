@@ -9,7 +9,7 @@ tput sgr0
 echo "################################################################## "
 echo
 
-	archisoRequiredVersion="archiso 58-1"
+	archisoRequiredVersion="archiso 58-2"
 	buildFolder=$HOME"/Documents/XelphLinux_build"
 	outFolder=$HOME"/Documents/XelphLinux"
 	archisoVersion=$(sudo pacman -Q archiso)
