@@ -156,5 +156,6 @@ Keybind                    | Function             |
 <a id="atsc"></a>
 ## Autostart Script.
 - To add your own programs to the autostart list, run the following command: `mkdir -p ~/.dwm;touch ~/.dwm/autostart_personal.sh;nano ~/.dwm/autostart_personal.sh` ( needs nano to be installed `sudo pacman -Sy nano` )
+- Any ISO post `v2.5-public` will have the above process already done for you, in which case you need to run `nano ~/.dwm/autostart_personal.sh`
 - After you're done, save and quit.
 - Use the keybind `super + shift + r` to restart dwm and apply changes.
