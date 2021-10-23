@@ -14,6 +14,7 @@
 - [Gallery 📷](#gal)
 - [Keybinds ✍️](#keybinds)
 - [Multiple monitors](#dualmon)
+- [Autostart Script](#atsc)
 - [Support server](https://discord.gg/Ey8KBYX2yS)
 - dunst keybinds - coming soon.
 - useful zsh aliases - coming soon.
@@ -148,4 +149,12 @@ Keybind                    | Function             |
 
 <a id="dualmon"></a>
 ## Multiple monitors.
-To setup multiple monitors, watch [this video](https://www.youtube.com/watch?v=MfgkyQrtm5g) by Brodie Robertson. Copy the generated command and add it to the end of `/opt/xelph-dwm-git/scripts/autostart.sh`. Use the keybind `super + shift + r` to restart dwm and apply your changes.
+- To setup multiple monitors, watch [this video](https://www.youtube.com/watch?v=MfgkyQrtm5g) by Brodie Robertson. 
+- Save the generated command to `~/.screenlayout/screen.sh`. 
+- Use the keybind `super + shift + r` to restart dwm and apply your changes.
+
+<a id="atsc"></a>
+## Autostart Script.
+- To add your own programs to the autostart list, run the following command: `mkdir -p ~/.dwm;touch ~/.dwm/autostart_personal.sh;nano ~/.dwm/autostart_personal.sh` ( needs nano to be installed `sudo pacman -Sy nano` )
+- After you're done, save and quit.
+- Use the keybind `super + shift + r` to restart dwm and apply changes.
